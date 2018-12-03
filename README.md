@@ -26,7 +26,7 @@
 
 ![athird](888.png) 
 
-![athird](androidScreen1.jpg) 
-![athird](iosScreenshot1.jpg) 
+![athird](androidScreen2.jpg) 
+![athird](iosScreenshot2.jpg) 
 ![athird](androidScreen0.jpg) 
 ![athird](iosScreenshot0.jpg) 
