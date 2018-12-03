@@ -25,9 +25,8 @@
 * 今天流量用完了，不想等到明天？请配置过渡金刚号888访问金刚网站（**仅能用于访问金刚网站**）
 
 ![athird](888.png) 
-![athird](androidScreen2.jpg) 
-![athird](iosScreenshot2.jpg) 
-![athird](androidScreen1.jgp) 
-![athird](iosScreenshot1.jgp) 
-![athird](androidScreen0.jgp) 
-![athird](iosScreenshot0.jgp) 
+
+![athird](androidScreen1.jpg) 
+![athird](iosScreenshot1.jpg) 
+![athird](androidScreen0.jpg) 
+![athird](iosScreenshot0.jpg) 
