@@ -24,9 +24,6 @@
   * [直接发电邮联系客服](mailto:cs@a2zitpro.com)，让我们来帮您。
 * 今天流量用完了，不想等到明天？请配置过渡金刚号888访问金刚网站（**仅能用于访问金刚网站**）
 
-![athird](888.png) 
 
-![athird](androidScreen2.jpg) 
-![athird](iosScreenshot2.jpg) 
 ![athird](androidScreen0.jpg) 
-![athird](iosScreenshot0.jpg) 
+![athird](iosScreen0.jpg) 
