@@ -25,7 +25,7 @@
 * 您的金刚号流量用完不能翻墙，也不想等到明天有流量时？[老朋友点击这里配置一个临时号访问金刚号网站（**仅能用于访问金刚网站，无法访问其它网站**）](https://github.com/a2zitpro/k/blob/master/888.md)
 
 **联系金刚客服**：
-  * 翻墙登录金刚网站，在论坛提问，或[点击联系客服链接](https://www.atozitpro.net/zh/contact-us/)(一定能找到我们)
-  * [直接发电邮给客服备用电邮地址](mailto:cs@a2zitpro.com)（也有可能失联），让我们来帮您。
+  * 翻墙登录金刚网站，在论坛提问，或[点击联系客服链接](https://www.atozitpro.net/zh/contact-us/)(有保障一定能找到我们)
+  * [直接发电邮给客服备用电邮地址](mailto:cs@a2zitpro.com)，让我们来帮您。
 
 
