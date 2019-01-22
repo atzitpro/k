@@ -9,7 +9,7 @@
 * **方便** 不用下载App 四条参数就搞定
 * 适用安卓苹果平板和PC
     
-## 新朋友？[点击注册](https://myfasttrack.org/midman/testfm.php)
+## 新朋友？[点击免费注册](https://myfasttrack.org/midman/testfm.php)
 * 注册后，系统自动给您生成免费试用翻墙金刚号
 * **免费试用一个月**，满意了再付费，
 * 扫朋友码注册？多得20%流量
