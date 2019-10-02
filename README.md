@@ -1,4 +1,4 @@
-![athird](l-w-s-athird.png)
+![image](l-w-s-athird.png)
 ### 金刚翻墙梯子
 
 #### 美国公司精心打造
