@@ -8,8 +8,8 @@
 * **高速** 视频流畅且清晰
 * **方便** 不用下载App 四条参数就搞定
 * 适用安卓苹果平板和PC
-## 安卓新朋友？[点此获取金刚客户端](https://a2zitpro.github.io/web/dlb)  
-## 苹果新朋友？[点此在金刚网免费、自动注册](https://myfasttrack.org/midman/testfm.php)
+### 安卓新朋友？[点此获取金刚客户端](https://a2zitpro.github.io/web/dlb)  
+### 苹果新朋友？[点此在金刚网免费、自动注册](https://myfasttrack.org/midman/testfm.php)
 * 注册后，金刚网自动派送您免费试用翻墙金刚号
 * **30GB流量，免费试用1个月**，满意再购买
 * 扫朋友码注册？多得20%流量
