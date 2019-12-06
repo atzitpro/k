@@ -7,7 +7,7 @@
 #### 给您全息资讯
 
 ### 安卓新朋友？[点此获取金刚2代app梯](https://github.com/a2zitpro/web/blob/master/dl.md)  
-### 苹果新朋友？[点此获取金刚1代金刚号梯一在金刚网免费、自动注册](https://a2zitpro.biz/midman/testfm.php)
+### 苹果新朋友？[点此获取金刚1代金刚号梯一一在金刚网免费、自动注册](https://a2zitpro.biz/midman/testfm.php)
 
 * 注册后，金刚网自动派送您免费试用翻墙金刚号
 * **30GB流量，免费试用1个月**，满意再购买
