@@ -6,10 +6,6 @@
 #### 带您穿越长城
 #### 给您全息资讯
 
-* **高速** 视频流畅且清晰
-* **方便** 不用下载App 四条参数就搞定
-* 适用安卓苹果平板和PC
-
 ### 安卓新朋友？[点此获取金刚2代app梯](https://github.com/a2zitpro/web/blob/master/dl.md)  
 ### 苹果新朋友？[点此获取金刚1代金刚号梯一在金刚网免费、自动注册](https://a2zitpro.biz/midman/testfm.php)
 
